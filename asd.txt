@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 djgghjghsajghasjg SDKGHSDJDGHSJDDGH KDJSLKDGJ;ALKJGl kjgljd1435jkdjg
 
 Abrakadabra
+=======
+File for testing git merge
+
+It's good for me.
+
+Sorry for my bad English ((((
+
+>>>>>>> humster
